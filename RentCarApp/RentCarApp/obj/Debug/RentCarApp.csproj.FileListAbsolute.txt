@@ -1,0 +1,15 @@
+C:\Users\kerem\source\repos\RentCarApp\RentCarApp\bin\Debug\RentCarApp.exe.config
+C:\Users\kerem\source\repos\RentCarApp\RentCarApp\bin\Debug\RentCarApp.exe
+C:\Users\kerem\source\repos\RentCarApp\RentCarApp\bin\Debug\RentCarApp.pdb
+C:\Users\kerem\source\repos\RentCarApp\RentCarApp\obj\Debug\RentCarApp.csproj.AssemblyReference.cache
+C:\Users\kerem\source\repos\RentCarApp\RentCarApp\obj\Debug\RentCarApp.LoginForm.resources
+C:\Users\kerem\source\repos\RentCarApp\RentCarApp\obj\Debug\RentCarApp.Properties.Resources.resources
+C:\Users\kerem\source\repos\RentCarApp\RentCarApp\obj\Debug\RentCarApp.csproj.GenerateResource.cache
+C:\Users\kerem\source\repos\RentCarApp\RentCarApp\obj\Debug\RentCarApp.csproj.CoreCompileInputs.cache
+C:\Users\kerem\source\repos\RentCarApp\RentCarApp\obj\Debug\RentCarApp.exe
+C:\Users\kerem\source\repos\RentCarApp\RentCarApp\obj\Debug\RentCarApp.pdb
+C:\Users\kerem\source\repos\RentCarApp\RentCarApp\obj\Debug\RentCarApp.AnaSayfaForm.resources
+C:\Users\kerem\source\repos\RentCarApp\RentCarApp\obj\Debug\RentCarApp.UyeOlForm.resources
+C:\Users\kerem\source\repos\RentCarApp\RentCarApp\obj\Debug\RentCarApp.AracForm.resources
+C:\Users\kerem\source\repos\RentCarApp\RentCarApp\obj\Debug\RentCarApp.MusteriForm.resources
+C:\Users\kerem\source\repos\RentCarApp\RentCarApp\obj\Debug\RentCarApp.KiralamaForm.resources
