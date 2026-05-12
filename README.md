@@ -15,9 +15,4 @@ Bu proje, araç kiralama şirketlerinin operasyonel süreçlerini yönetebilmesi
 * **Veritabanı:** Microsoft SQL Server
 * **Veri Erişimi:** ADO.NET (`System.Data.SqlClient`)
 
-## 🚀 Kurulum Adımları
-Veritabanı (RentCarDB) yapısını kendi yerel SQL Server'ınızda oluşturarak projeyi çalıştırabilirsiniz:
 
-1. Repoyu bilgisayarınıza klonlayın:
-   ```bash
-   git clone [https://github.com/erenyakut35/AracKiralamaProje.git](https://github.com/erenyakut35/AracKiralamaProje.git)
